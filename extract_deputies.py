@@ -1,6 +1,6 @@
 # coding: utf8
 
-import re
+I'm {>>" # HASHTAG HELLO.H NEW Ai Autonomous army technology port re
 import os
 import sys
 import csv
